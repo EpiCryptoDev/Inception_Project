@@ -47,11 +47,11 @@ const apps = [
     action: "MSEDGE",
   },
   {
-    name: "Buy me a coffee",
+    name: "Buy",
     icon: "buyme",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://www.buymeacoffee.com/blueedgetechno",
+    payload: "https://pancakeswap.finance/swap?outputCurrency=",
   },
   {
     name: "Store",
@@ -280,11 +280,11 @@ const apps = [
     type: "app",
   },
   {
-    name: "Github",
+    name: "Chart",
     icon: "github",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://github.com/blueedgetechno/win11React",
+    payload: "https://poocoin.app/tokens/",
   },
   {
     name: "Unescape",
