@@ -197,7 +197,7 @@ const apps = [
     icon: "pinterest",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://www.pinterest.com/blueedgetechno/",
+    payload: "https://www.pinterest.com",
   },
   {
     name: "Security",
@@ -230,7 +230,7 @@ const apps = [
     icon: "twitter",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://twitter.com/blueedgetechno",
+    payload: "https://twitter.com/",
   },
   {
     name: "Teams",
@@ -287,11 +287,11 @@ const apps = [
     payload: "https://poocoin.app/tokens/",
   },
   {
-    name: "Unescape",
+    name: "Telegram",
     icon: "unescape",
     type: "action",
     action: "EXTERNAL",
-    payload: "https://blueedge.me/unescape",
+    payload: "https://t.me/Inception_Project",
   },
   {
     name: "Discord",

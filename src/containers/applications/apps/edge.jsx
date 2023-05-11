@@ -4,7 +4,7 @@ import { Icon, ToolBar, LazyComponent } from "../../../utils/general";
 
 export const EdgeMenu = () => {
   const wnapp = useSelector((state) => state.apps.edge);
-  const [url, setUrl] = useState("https://www.google.com/?igu=1");
+  const [url, setUrl] = useState("https://inception-project.netlify.app/");
   const [ierror, setErr] = useState(true);
   const [isTyping, setTyping] = useState(false);
   const [hist, setHist] = useState(["https://bing.com", "https://bing.com"]);
@@ -13,15 +13,14 @@ export const EdgeMenu = () => {
   const iframes = {
     "https://www.google.com/webhp?igu=1": "Google",
     "https://bing.com": "Bing",
-    "https://www.youtube.com/embed/m0EHSoZzHEA": "Youtube",
-    "https://blueedge.me": "blueedge",
-    "https://andrewstech.me": "\nandrewstech",
-    "https://blueedge.me/unescape": "Unescape",
-    "https://win11.blueedge.me": "Inception",
-    "https://open.spotify.com/embed/user/jhfivkgdtg4s97pwbo1rbvr9v/playlist/6IdR78TOog83PV4XhLDvWN":
-      "Spotify",
-    "https://bluelab.blueedge.me": "BlueLab",
-    "https://othello.blueedge.me": "Othello",
+    "https://www.youtube.com": "Youtube",
+    "https://open.spotify.com/embed/user/jhfivkgdtg4s97pwbo1rbvr9v/playlist/6IdR78TOog83PV4XhLDvWN": "Spotify",
+    "https://t.me/Inception_Project": "Telegram",
+    "https://inception-project.netlify.app/": "Inception",
+    "https://pancakeswap.finance/swap?outputCurrency=": "Pancakeswap",
+    "https://poocoin.app/": "Poocoin",
+    "https://www.dextools.io/app/": "Dextools",
+    "https://dexscreener.com/": "Dexscreener",
   };
 
   const favicons = {
