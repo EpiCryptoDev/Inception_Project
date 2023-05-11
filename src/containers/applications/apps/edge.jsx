@@ -14,7 +14,8 @@ export const EdgeMenu = () => {
     "https://www.google.com/webhp?igu=1": "Google",
     "https://bing.com": "Bing",
     "https://www.youtube.com": "Youtube",
-    "https://open.spotify.com/embed/user/jhfivkgdtg4s97pwbo1rbvr9v/playlist/6IdR78TOog83PV4XhLDvWN": "Spotify",
+    "https://open.spotify.com/embed/user/jhfivkgdtg4s97pwbo1rbvr9v/playlist/6IdR78TOog83PV4XhLDvWN":
+      "Spotify",
     "https://t.me/Inception_Project": "Telegram",
     "https://inception-project.netlify.app/": "Inception",
     "https://pancakeswap.finance/swap?outputCurrency=": "Pancakeswap",
