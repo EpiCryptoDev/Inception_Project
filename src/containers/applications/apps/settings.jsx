@@ -21,10 +21,10 @@ export const Settings = () => {
   const themechecker = {
     default: "light",
     dark: "dark",
-    ThemeA: "dark",
+    ThemeA: "light",
     ThemeB: "dark",
     ThemeD: "light",
-    ThemeC: "light",
+    ThemeC: "dark",
   };
 
   const handleWallAndTheme = (e) => {
@@ -240,7 +240,7 @@ export const Settings = () => {
                                 width={90}
                               />
                               <div>
-                                <p>{userName.toUpperCase()}</p>
+                                <p>INCEPTION</p>
                                 <p>Local Account</p>
                                 <p>Administrator</p>
                               </div>
