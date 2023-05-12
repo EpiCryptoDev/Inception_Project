@@ -10,7 +10,7 @@ const walls = [
   "ThemeD/img0.jpg",
 ];
 
-const themes = ["default", "dark", "ThemeA", "ThemeB", "ThemeD", "ThemeC"];
+const themes = ["dark", "default", "ThemeB", "ThemeA", "ThemeC", "ThemeD"];
 
 const defState = {
   themes: themes,
