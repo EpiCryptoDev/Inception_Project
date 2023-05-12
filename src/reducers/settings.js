@@ -18,8 +18,8 @@ const defState = {
   },
   person: {
     name: "INCEPTION",
-    theme: "dark",
-    color: "black",
+    theme: "light",
+    color: "blue",
   },
   devices: {
     bluetooth: false,
