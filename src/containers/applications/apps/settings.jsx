@@ -74,7 +74,7 @@ export const Settings = () => {
                   width={60}
                 />
                 <div>
-                  <p>{userName}</p>
+                  <p>INCEPTION</p>
                   <p>Local Account</p>
                 </div>
               </div>
