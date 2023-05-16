@@ -17,7 +17,7 @@ const defState = {
     },
   },
   person: {
-    name: "INCEPTION",
+    name: "Richard Heart",
     theme: "dark",
     color: "blue",
   },
