@@ -74,7 +74,7 @@ export const Settings = () => {
                   width={60}
                 />
                 <div>
-                  <p>INCEPTION</p>
+                  <p>Richard Heart</p>
                   <p>Local Account</p>
                 </div>
               </div>
@@ -128,9 +128,9 @@ export const Settings = () => {
                                   className="device_img"
                                 />
                                 <div className="column_device">
-                                  <p className="device_name">INCEPTION</p>
-                                  <p className="device_model">v0.23</p>
-                                  <p className="device_rename">Rename</p>
+                                  <p className="device_name">Richard James Schueler</p>
+                                  <p className="device_model">Highly Sensitive Data</p>
+                                  <p className="device_rename">Autodestruct</p>
                                 </div>
                               </div>
                               <div className="right">
@@ -240,7 +240,7 @@ export const Settings = () => {
                                 width={90}
                               />
                               <div>
-                                <p>INCEPTION</p>
+                                <p>Richard Heart</p>
                                 <p>Local Account</p>
                                 <p>Administrator</p>
                               </div>
