@@ -19,12 +19,12 @@ export const Settings = () => {
   const [upmodalOpen, setUpmodalOpen] = useState(false);
 
   const themechecker = {
-    default: "light",
+    default: "dark",
     dark: "dark",
-    ThemeA: "light",
+    ThemeA: "dark",
     ThemeB: "dark",
-    ThemeD: "light",
-    ThemeC: "dark",
+    ThemeD: "dark",
+    ThemeC: "light",
   };
 
   const handleWallAndTheme = (e) => {
@@ -133,7 +133,7 @@ export const Settings = () => {
                                   <p className="device_model">
                                     Highly Sensitive Data</p>
                                   <p className="device_rename">
-                                    Autodestruct</p>
+                                    Self-destruct</p>
                                 </div>
                               </div>
                               <div className="right">
