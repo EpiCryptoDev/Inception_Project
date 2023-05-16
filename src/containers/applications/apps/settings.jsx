@@ -128,8 +128,12 @@ export const Settings = () => {
                                   className="device_img"
                                 />
                                 <div className="column_device">
-                                  <p className="device_name">Richard James Schueler</p>
-                                  <p className="device_model">Highly Sensitive Data</p>
+                                  <p className="device_name">
+                                    Richard James Schueler
+                                  </p>
+                                  <p className="device_model">
+                                    Highly Sensitive Data
+                                  </p>
                                   <p className="device_rename">Autodestruct</p>
                                 </div>
                               </div>
