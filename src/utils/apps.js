@@ -51,7 +51,7 @@ const apps = [
     icon: "buyme",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://pancakeswap.finance/swap?outputCurrency=",
+    payload: "https://app.pulsex.com/swap?outputCurrency=0x&chain=pulsechain",
   },
   {
     name: "Store",
@@ -284,14 +284,14 @@ const apps = [
     icon: "github",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://poocoin.app/tokens/",
+    payload: "https://dexscreener.com/",
   },
   {
     name: "Telegram",
     icon: "unescape",
     type: "action",
     action: "EXTERNAL",
-    payload: "https://t.me/Inception_Project",
+    payload: "https://t.me/RichardLostLaptop",
   },
   {
     name: "Discord",
