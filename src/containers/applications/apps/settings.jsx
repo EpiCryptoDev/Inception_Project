@@ -129,11 +129,13 @@ export const Settings = () => {
                                 />
                                 <div className="column_device">
                                   <p className="device_name">
-                                    Richard James Schueler</p>
+                                    Richard James Schueler
+                                  </p>
                                   <p className="device_model">
-                                    Highly Sensitive Data</p>
+                                    Highly Sensitive Data
+                                    </p>
                                   <p className="device_rename">
-                                    Self-destruct</p>
+                                    Autodestruct</p>
                                 </div>
                               </div>
                               <div className="right">
