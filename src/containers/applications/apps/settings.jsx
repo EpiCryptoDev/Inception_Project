@@ -134,7 +134,7 @@ export const Settings = () => {
                                   <p className="device_model">
                                     Highly Sensitive Data
                                   </p>
-                                  <p className="device_rename">Autodestruct</p>
+                                  <p className="device_rename">Self-destruct</p>
                                 </div>
                               </div>
                               <div className="right">
