@@ -65,7 +65,7 @@ const apps = [
     type: "app",
   },
   {
-    name: "Blue",
+    name: "Richard",
     icon: "win/user",
     type: "short",
   },
