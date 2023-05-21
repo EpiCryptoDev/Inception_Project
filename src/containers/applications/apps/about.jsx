@@ -33,7 +33,6 @@ export const AboutWin = () => {
       <div className="content p-6">
         <div className="text-xl font-semibold">{t("about.title")}</div>
         <p>{t("about.opensource")}</p>
-        <p>{t("about.opensource2")}</p>
         <p>
           {t("about.licensed")}&nbsp;
           <a
