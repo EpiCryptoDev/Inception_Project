@@ -232,12 +232,7 @@ const DownPage = ({ action, apps }) => {
           Games
         </div>
         <div className="absolute right-0 mr-4 text-sm">
-          <a
-            href="#"
-            className="catbtn"
-            target="_blank"
-            rel="noreferrer"
-          >
+          <a href="#" className="catbtn" target="_blank" rel="noreferrer">
             Add your own app (Coming Soon)
           </a>
         </div>
