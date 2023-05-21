@@ -284,7 +284,7 @@ const apps = [
     icon: "github",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://dexscreener.com/",
+    payload: "https://www.dextools.io/app/en/pulse/pair-explorer/",
   },
   {
     name: "Telegram",

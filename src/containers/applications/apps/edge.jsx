@@ -20,7 +20,8 @@ export const EdgeMenu = () => {
     "https://twitter.com/RichardHeartWin": "Twitter",
     "https://pulsechain.com/": "PulseChain",
     "https://app.pulsex.com/swap?outputCurrency=0x&chain=pulsechain": "Buy",
-    "https://dexscreener.com/": "Chart",
+    "https://www.dextools.io/app/en/pulse/pair-explorer/": "Dextools",
+    "https://dexscreener.com/": "Dexscreener",
   };
 
   const favicons = {
