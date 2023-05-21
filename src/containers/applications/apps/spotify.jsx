@@ -764,7 +764,7 @@ const Playlist = ({ type, tdata, action, action2, sid, paused }) => {
             {(data.album_artist && data.album_artist.split(", ").join(" • ")) ||
               ""}{" "}
             <span className="text-gray-400 text-xs">
-              • {data.year || "2020"} •{" "}
+              • {data.year || "2022"} •{" "}
               {(data.songs && data.songs.length) || "0"} song
               {data.songs && data.songs.length > 1 ? "s" : null},{" "}
               {jiosaavn.formatPeriod(totTime)}
