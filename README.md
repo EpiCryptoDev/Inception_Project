@@ -40,7 +40,6 @@ Any opinions, news, research, analyses, prices, or other information contained o
 
 LOST - Richard Lost Laptop makes no representation or warranties as to the accuracy and or timelines of the information contained herein. A qualified professional should be consulted before making any financial decisions.
 
-
 # RoadMap
 
 - [ ] To Be revealed
@@ -59,8 +58,6 @@ LOST - Richard Lost Laptop makes no representation or warranties as to the accur
 
 # Tokenomics
 
-
 ## FAQ
 
 - Upcoming
-
