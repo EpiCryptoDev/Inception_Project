@@ -17,6 +17,7 @@ export const EdgeMenu = () => {
     "https://open.spotify.com/embed/user/jhfivkgdtg4s97pwbo1rbvr9v/playlist/37i9dQZF1DX8hhMi0eJdu5":
       "Spotify",
     "https://t.me/RichardLostLaptop": "Telegram",
+    "https://twitter.com/RichardHeartWin": "Twitter",
     "https://pulsechain.com/": "PulseChain",
     "https://app.pulsex.com/swap?outputCurrency=0x&chain=pulsechain": "Buy",
     "https://dexscreener.com/": "Chart",

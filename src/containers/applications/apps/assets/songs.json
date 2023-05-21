@@ -6,44 +6,8 @@
       "cards": [
         {
           "type": "mix",
-          "img": "https://c.saavncdn.com/artists/Arijit_Singh_500x500.jpg",
-          "name": "Daily Mix 1",
-          "desc": "Arijit Singh, Jubin Nautiyal, Darshan Raval and more",
-          "data": [
-            "1F6WUTJk",
-            "ZGifVkqI",
-            "m6DcVXHw",
-            "3x-IwBwd",
-            "aOEJX-ur",
-            "tIn7iq-R",
-            "7pyE_xRk",
-            "CaFn4YtS",
-            "9MZHxohI",
-            "gf4cA9Jj"
-          ]
-        },
-        {
-          "type": "mix",
-          "img": "https://c.saavncdn.com/artists/Kavita_Seth_500x500.jpg",
-          "name": "Daily Mix 2",
-          "desc": "Kavita Seth, Alka Yagnik, Shubha Mudgal and more",
-          "data": [
-            "aUTlRd3u",
-            "9B8qM5Gv",
-            "Ut_lKlWE",
-            "DHrY5Sdd",
-            "3Be_U0qz",
-            "cgM-pRO9",
-            "mPk9X_H_",
-            "Ni6noMmw",
-            "0-5hUtBO",
-            "mbKEo3nm"
-          ]
-        },
-        {
-          "type": "mix",
           "img": "https://c.saavncdn.com/067/NF-English-2014-500x500.jpg",
-          "name": "Daily Mix 3",
+          "name": "Daily Mix 1",
           "desc": "NF, Billie Eilish, Powfu and more",
           "data": [
             "o8jkpKcg",
@@ -120,23 +84,10 @@
       "cards": [
         {
           "type": "song",
-          "img": "https://c.saavncdn.com/228/Ek-Nazar-Hindi-2020-20200518060806-500x500.jpg",
-          "name": "Ek Nazar",
-          "desc": "Kavita Seth",
-          "data": "cgM-pRO9"
-        },
-        {
-          "type": "song",
           "img": "https://c.saavncdn.com/323/Better-Days-English-2020-20200325160343-500x500.jpg",
           "name": "Better Days",
           "desc": "OneRepublic",
           "data": "JDJfNgEY"
-        },
-        {
-          "type": "artist",
-          "img": "https://c.saavncdn.com/artists/Sanam_-Band-_002_20201020080410_500x500.jpg",
-          "name": "Sanam",
-          "desc": "Band"
         },
         {
           "type": "album",
@@ -159,13 +110,6 @@
       "cards": [
         {
           "type": "song",
-          "img": "https://c.saavncdn.com/994/Tamasha-Hindi-2015-500x500.jpg",
-          "name": "Agar Tum Saath Ho",
-          "desc": "Alka Yagnik, Arijit Singh",
-          "data": "Ni6noMmw"
-        },
-        {
-          "type": "song",
           "img": "https://c.saavncdn.com/565/Human-English-2016-500x500.jpg",
           "name": "Human",
           "desc": "Rag'N'Bone Man",
@@ -180,20 +124,6 @@
         },
         {
           "type": "song",
-          "img": "https://c.saavncdn.com/790/Gangs-Of-Wasseypur-2012-500x500.jpg",
-          "name": "Ik Bagal",
-          "desc": "Piyush Mishra",
-          "data": "Lo1zbaMa"
-        },
-        {
-          "type": "song",
-          "img": "https://c.saavncdn.com/032/Jaane-Woh-Kaise-Sanam-Hindi-2017-20171204-500x500.jpg",
-          "name": "Jaane Woh Kaise",
-          "desc": "Sanam (Band)",
-          "data": "FHIMkqMv"
-        },
-        {
-          "type": "song",
           "img": "https://c.saavncdn.com/165/Stand-Up-From-Harriet--English-2019-20200414191117-500x500.jpg",
           "name": "Stand Up (From Harriet)",
           "desc": "Cynthia Erivo",
@@ -205,13 +135,6 @@
           "name": "Lily",
           "desc": "Alan Walker, K-391, ...",
           "data": "1c-VGSyw"
-        },
-        {
-          "type": "song",
-          "img": "https://c.saavncdn.com/065/Citylights-Hindi-2014-20190607111647-500x500.jpg",
-          "name": "Muskurane",
-          "desc": "Arijit Singh, Jeet Gannguli",
-          "data": "1K9IsVVU"
         },
         {
           "type": "song",
@@ -234,13 +157,6 @@
       "cards": [
         {
           "type": "album",
-          "img": "https://c.saavncdn.com/531/Gulaal-Hindi-2009-500x500.jpg",
-          "name": "Gulaal",
-          "desc": "Piyush Mishra",
-          "data": "1028531"
-        },
-        {
-          "type": "album",
           "img": "https://c.saavncdn.com/432/Raincoat-Hindi-2004-20210125130707-500x500.jpg",
           "name": "Raincoat",
           "desc": "Hariharan, Meena Mishra",
@@ -255,24 +171,10 @@
         },
         {
           "type": "album",
-          "img": "https://sklktcdnems06.cdnsrv.jio.com/c.saavncdn.com/113/Main-Aur-Mera-Saya-Bhupen-Hazarika-2001-500x500.jpg",
-          "name": "Main Aur Mera Saya",
-          "desc": "Gulzar, Bhupen Hazarika",
-          "data": "1066045"
-        },
-        {
-          "type": "album",
           "img": "https://c.saavncdn.com/228/Lover-English-2019-20190823031817-500x500.jpg",
           "name": "Lover",
           "desc": "Taylor Swift",
           "data": "17037435"
-        },
-        {
-          "type": "album",
-          "img": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-500x500.jpg",
-          "name": "Aashiqui 2",
-          "desc": "Palak Muchhal, Arijit Singh",
-          "data": "1139549"
         },
         {
           "type": "album",
@@ -328,26 +230,8 @@
         },
         {
           "type": "artist",
-          "name": "Neeti Mohan",
-          "img": "https://c.saavncdn.com/artists/Neeti_Mohan_003_20200211100510_500x500.jpg",
-          "desc": "Artist"
-        },
-        {
-          "type": "artist",
           "name": "Alan Walker",
           "img": "https://c.saavncdn.com/artists/Alan_Walker_002_20190507112228_500x500.jpg",
-          "desc": "Artist"
-        },
-        {
-          "type": "artist",
-          "name": "Armaan Malik",
-          "img": "https://c.saavncdn.com/artists/Armaan_Malik_500x500.jpg",
-          "desc": "Artist"
-        },
-        {
-          "type": "artist",
-          "name": "Shalmali",
-          "img": "https://c.saavncdn.com/artists/Shalmali_Kholgade_004_20200226073940_500x500.jpg",
           "desc": "Artist"
         },
         {
@@ -370,12 +254,6 @@
         },
         {
           "type": "artist",
-          "name": "Arijit Singh",
-          "img": "https://c.saavncdn.com/artists/Arijit_Singh_500x500.jpg",
-          "desc": "Artist"
-        },
-        {
-          "type": "artist",
           "name": "Alessia Cara",
           "img": "https://c.saavncdn.com/artists/Alessia_Cara_20190306095839_500x500.jpg",
           "desc": "Artist"
@@ -392,24 +270,6 @@
           "img": "https://c.saavncdn.com/artists/Alec_Benjamin_000_20191129075848_500x500.jpg",
           "desc": "Artist"
         },
-        {
-          "type": "artist",
-          "name": "Darshan Raval",
-          "img": "https://c.saavncdn.com/artists/Darshan_Raval_500x500.jpg",
-          "desc": "Artist"
-        },
-        {
-          "type": "artist",
-          "name": "Atif Aslam",
-          "img": "https://c.saavncdn.com/artists/Atif_Aslam_500x500.jpg",
-          "desc": "Artist"
-        },
-        {
-          "type": "artist",
-          "name": "Monali Thakur",
-          "img": "https://c.saavncdn.com/artists/Monali_Thakur_500x500.jpg",
-          "desc": "Artist"
-        }
       ]
     }
   ],
@@ -1010,38 +870,12 @@
     }
   ],
   "playlist": [
-    {
-      "type": "play",
-      "img": "/img/asset/hindi.jpg",
-      "name": "Hindi",
-      "desc": "Created by blueedge",
-      "data": [
-        "jZj6FxTn",
-        "lWfLyI7Q",
-        "1EvZOLZA",
-        "7pyE_xRk",
-        "Vnpn-XBN",
-        "sRfXrLI3",
-        "5MALSALT",
-        "OhWCnpFD",
-        "nXoABtkj",
-        "466Fxnry",
-        "VCeN_rCT",
-        "DHrY5Sdd",
-        "eR_xs61E",
-        "L03PNwY-",
-        "sqCyEI52",
-        "p3CNoOta",
-        "W6RoExZr",
-        "m87V1xS7",
-        "egbFbCZA"
-      ]
-    },
+    
     {
       "type": "play",
       "img": "/img/asset/english.jpg",
-      "name": "English",
-      "desc": "Created by blueedge",
+      "name": "My Playlist",
+      "desc": "Created by Richard",
       "data": [
         "Qh1CjVg7",
         "bodW4p3V",
