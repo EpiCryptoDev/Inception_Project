@@ -144,77 +144,77 @@
                           "You perv!": {}
                         }
                       }
-                  },
-                  
-                  "High School": {
-                    "data": {
-                      "Did you really expected that": {}
+                    },
+
+                    "High School": {
+                      "data": {
+                        "Did you really expected that": {}
+                      }
                     }
                   }
-                }
-              },
-              "Videos": {
-                "info": {
-                  "spid": "%videos%",
-                  "icon": "vid"
                 },
-                "data": {
-                  "porn-collection": {
-                    "data": {
-                      "Just deleted before I lose my laptop": {}
+                "Videos": {
+                  "info": {
+                    "spid": "%videos%",
+                    "icon": "vid"
+                  },
+                  "data": {
+                    "porn-collection": {
+                      "data": {
+                        "Just deleted before I lose my laptop": {}
+                      }
                     }
                   }
-                }
-              },
-              "Github": {
-                "info": {
-                  "spid": "%github%"
-                }
-              },
-              "OneDrive": {
-                "type": "folder",
-                "name": "OneDrive",
-                "info": {
-                  "spid": "%onedrive%",
-                  "icon": "onedrive"
                 },
-                "data": {
-                  "Atom": {
-                    "data": {
-                      "Codeforces": {},
-                      "JavaScript": {},
-                      "Github": {}
-                    }
+                "Github": {
+                  "info": {
+                    "spid": "%github%"
+                  }
+                },
+                "OneDrive": {
+                  "type": "folder",
+                  "name": "OneDrive",
+                  "info": {
+                    "spid": "%onedrive%",
+                    "icon": "onedrive"
                   },
-                  "Attachments": {},
-                  "october": {},
-                  "Office": {},
-                  "party": {},
-                  "New Folder": {}
-                }
-              },
-              "Contacts": {},
-              "Favorites": {},
-              "Programs": {}
+                  "data": {
+                    "Atom": {
+                      "data": {
+                        "Codeforces": {},
+                        "JavaScript": {},
+                        "Github": {}
+                      }
+                    },
+                    "Attachments": {},
+                    "october": {},
+                    "Office": {},
+                    "party": {},
+                    "New Folder": {}
+                  }
+                },
+                "Contacts": {},
+                "Favorites": {},
+                "Programs": {}
+              }
             }
           }
-        }
-      },
-      "Windows": {}
-    }
-  },
-  "D:": {
-    "name": "D:",
-    "info": {
-      "spid": "%ddrive%"
+        },
+        "Windows": {}
+      }
     },
-    "data": {
-      "Adobe": {},
-      "Programs": {},
-      "Unity": {},
-      "WindowsApp": {},
-      "Temp": {}
+    "D:": {
+      "name": "D:",
+      "info": {
+        "spid": "%ddrive%"
+      },
+      "data": {
+        "Adobe": {},
+        "Programs": {},
+        "Unity": {},
+        "WindowsApp": {},
+        "Temp": {}
+      }
     }
   }
-}
 }
