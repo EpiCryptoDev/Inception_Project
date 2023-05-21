@@ -2,21 +2,20 @@
 
 Welcome to The community
 
-While walking though the streets of Pittsburgh, we found a shiny Laptop made of Diamonds just laying on the ground. 
-Nothing out of the ordinary so far beside the gold keyboard which is, to be fair, pretty common nowadays. 
-After further investigation, it turns out to be Richard's Heart laptop! Full of Hex-ellent tools, apps and nasty pictures :) 
-We decided to share this discovery with you and bring this desktop to our community so that everyone can Richard his way through the Chain! 
+While walking though the streets of Pittsburgh, we found a shiny Laptop made of Diamonds just laying on the ground.
+Nothing out of the ordinary so far beside the gold keyboard which is, to be fair, pretty common nowadays.
+After further investigation, it turns out to be Richard's Heart laptop! Full of Hex-ellent tools, apps and nasty pictures :)
+We decided to share this discovery with you and bring this desktop to our community so that everyone can Richard his way through the Chain!
 
-Richard Lost Laptop is not only a meme token, it is a full community-based project where utility will join fun. 
+Richard Lost Laptop is not only a meme token, it is a full community-based project where utility will join fun.
 With many features planned to be released, we will build this community desktop with you, add every new feature as an app for everyone to enjoy,
-and of course, reward our biggest holders with admin access, and exclusive features directly accessible on the desktop. 
+and of course, reward our biggest holders with admin access, and exclusive features directly accessible on the desktop.
 
-We will soon release a full fledged Roadmap of the upcoming features to be part of LOST with Portfolio tracker being our first priority 
+We will soon release a full fledged Roadmap of the upcoming features to be part of LOST with Portfolio tracker being our first priority
 as we feel this will benefit our community the most.
 Until then, make sure to join us, Hold and have fun with the many features released and to be released!
 
 [![Follow Twitter](https://img.shields.io/twitter/follow/blueedgetechno?label=Follow%20me&style=social)](https://twitter.com/RichardHeartWin)
-
 
 ## Disclaimer
 
