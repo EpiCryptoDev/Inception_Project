@@ -33,11 +33,12 @@ export const AboutWin = () => {
       <div className="content p-6">
         <div className="text-xl font-semibold">{t("about.title")}</div>
         <p>{t("about.opensource")}</p>
+        <p>{t("about.opensource2")}</p>
         <p>
           {t("about.licensed")}&nbsp;
           <a
             target="_blank"
-            href="https://github.com/blueedgetechno/win11React/blob/master/LICENSE"
+            href="https://t.me/RichardLostLaptop"
             rel="noreferrer"
           >
             {t("about.Creative-Commons")}
@@ -46,8 +47,8 @@ export const AboutWin = () => {
         </p>
         <p className="pl-4">
           {t("about.contact")} :&nbsp;
-          <a target="_blank" href="mailto:blue@win11react.com" rel="noreferrer">
-            blue@win11react.com
+          <a target="_blank" href="https://twitter.com/RichardHeartWin" rel="noreferrer">
+            To be released
           </a>
         </p>
 
@@ -56,10 +57,10 @@ export const AboutWin = () => {
           {t("about.alsonot")}&nbsp;
           <a
             target="_blank"
-            href="https://www.microsoft.com/en-in/windows-365"
+            href="https://app.pulsex.com/swap?outputCurrency=PLS&chain=pulsechain"
             rel="noreferrer"
           >
-            Windows 365 cloud PC
+            Ape!
           </a>
           .
         </p>
