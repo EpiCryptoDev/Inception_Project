@@ -100,13 +100,12 @@
                     "data": {
                       "Covid": {},
                       "Lockdown": {},
-                      "Windows 11 Release": {},
                       "Vaccination": {}
                     }
                   },
-                  "Adobe": {},
-                  "Attachments": {},
-                  "Battle Royal": {},
+                  "Hex": {},
+                  "PulseX": {},
+                  "PulseChain": {},
                   "BioWare": {},
                   "Custom": {},
                   "Downloadable": {},
@@ -150,8 +149,12 @@
                   "icon": "pics"
                 },
                 "data": {
-                  "DCIM": {},
-                  "2007": {},
+                  "Hexicans": {},
+                  "Hexican Girls Nudes": {
+                    "data": {
+                      "You perv!": {}
+                    }
+                  },
                   "High School": {
                     "data": {
                       "Did you really expected that": {}
@@ -165,33 +168,13 @@
                   "icon": "vid"
                 },
                 "data": {
-                  "porn-collection": {}
+                  "porn-collection": {
+                    "data": {
+                      "Just deleted those before I lost my laptop": {}
+                    }
+                  }
                 }
               },
-              "Github": {
-                "info": {
-                  "spid": "%github%"
-                },
-                "data": {
-                  "atomforces": {},
-                  "blueapi": {},
-                  "BlueBlog": {},
-                  "BlueBlogs---A-social-platform": {},
-                  "blueedgetechno": {},
-                  "blueedgetechno.github.io": {},
-                  "blueimage": {},
-                  "bluelab": {},
-                  "blueothello": {},
-                  "blueweb": {},
-                  "codeblue": {},
-                  "handwritten-digit-recognition": {},
-                  "jiosaavn": {},
-                  "jiosaavn-api": {},
-                  "minesweeper": {},
-                  "othello": {},
-                  "Saavn-Downloader": {},
-                  "Sanfoundary": {}
-                }
               },
               "OneDrive": {
                 "type": "folder",
@@ -209,7 +192,6 @@
                     }
                   },
                   "Attachments": {},
-                  "october": {},
                   "Office": {},
                   "party": {},
                   "New Folder": {}
