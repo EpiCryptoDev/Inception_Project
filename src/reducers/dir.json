@@ -175,6 +175,10 @@
                   }
                 }
               },
+              "Github": {
+                "info": {
+                  "spid": "%github%"
+                }
               },
               "OneDrive": {
                 "type": "folder",
@@ -192,6 +196,7 @@
                     }
                   },
                   "Attachments": {},
+                  "october": {},
                   "Office": {},
                   "party": {},
                   "New Folder": {}
