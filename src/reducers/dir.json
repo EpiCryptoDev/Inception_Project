@@ -74,9 +74,9 @@
               "Public Videos": {}
             }
           },
-          "Blue": {
+          "Richard": {
             "type": "folder",
-            "name": "Blue",
+            "name": "Richard",
             "info": {
               "spid": "%user%",
               "icon": "user"
@@ -106,17 +106,11 @@
                   "Hex": {},
                   "PulseX": {},
                   "PulseChain": {},
-                  "BioWare": {},
                   "Custom": {},
-                  "Downloadable": {},
-                  "Fax": {},
-                  "FeedbackHub": {},
-                  "Freelancing": {},
-                  "My Games": {},
-                  "OneNote notebooks": {},
-                  "OnScreen Control": {},
-                  "Outlook Files": {},
-                  "Visual Studio": {}
+                  "Memes": {},
+                  "Utility #1": {},
+                  "Utility #2": {},
+                  "Utility #3": {}
                 }
               },
               "Downloads": {
@@ -125,10 +119,6 @@
                   "icon": "down"
                 },
                 "data": {
-                  "Hitman 3": {},
-                  "Atomforces": {},
-                  "Compressed": {},
-                  "textures": {},
                   "Not A Virus": {}
                 }
               },
@@ -138,9 +128,7 @@
                   "icon": "music"
                 },
                 "data": {
-                  "Hip Hop": {},
-                  "Old School": {},
-                  "60s Songs": {}
+                  "Community Playlists": {}
                 }
               },
               "Pictures": {
@@ -149,12 +137,15 @@
                   "icon": "pics"
                 },
                 "data": {
-                  "Hexicans": {},
-                  "Hexican Girls Nudes": {
+                  "Hexicans": {
                     "data": {
-                      "You perv!": {}
-                    }
+                      "Hexican Girls Nudes": {
+                        "data": {
+                          "You perv!": {}
+                        }
+                      }
                   },
+                  
                   "High School": {
                     "data": {
                       "Did you really expected that": {}
@@ -170,7 +161,7 @@
                 "data": {
                   "porn-collection": {
                     "data": {
-                      "Just deleted those before I lost my laptop": {}
+                      "Just deleted before I lose my laptop": {}
                     }
                   }
                 }
@@ -204,9 +195,7 @@
               },
               "Contacts": {},
               "Favorites": {},
-              "gif": {},
-              "Programs": {},
-              "Postman": {}
+              "Programs": {}
             }
           }
         }
@@ -227,4 +216,5 @@
       "Temp": {}
     }
   }
+}
 }
