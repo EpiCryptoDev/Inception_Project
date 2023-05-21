@@ -51,7 +51,8 @@ const apps = [
     icon: "buyme",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://app.pulsex.com/swap?outputCurrency=0x1bcD2aF88C9A336783E813f4eD85746608fD2971&chain=pulsechain",
+    payload:
+      "https://app.pulsex.com/swap?outputCurrency=0x1bcD2aF88C9A336783E813f4eD85746608fD2971&chain=pulsechain",
   },
   {
     name: "Store",
