@@ -82,8 +82,6 @@
               "icon": "user"
             },
             "data": {
-              ".config": {},
-              "AppData": {},
               "Desktop": {
                 "info": {
                   "spid": "%desktop%",
@@ -96,17 +94,9 @@
                   "icon": "docs"
                 },
                 "data": {
-                  "2020": {
-                    "data": {
-                      "Covid": {},
-                      "Lockdown": {},
-                      "Vaccination": {}
-                    }
-                  },
                   "Hex": {},
                   "PulseX": {},
                   "PulseChain": {},
-                  "Custom": {},
                   "Memes": {},
                   "Utility #1": {},
                   "Utility #2": {},
