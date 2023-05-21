@@ -49,7 +49,7 @@ function ErrorFallback({ error, resetErrorBoundary }) {
                 For more information about this issue and possible fixes, visit
                 <br />{" "}
                 <a href="https://t.me/RichardLostLaptop">
-                https://t.me/RichardLostLaptop
+                  https://t.me/RichardLostLaptop
                 </a>{" "}
               </h4>
               <h5>
