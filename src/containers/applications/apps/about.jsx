@@ -46,7 +46,11 @@ export const AboutWin = () => {
         </p>
         <p className="pl-4">
           {t("about.contact")} :&nbsp;
-          <a target="_blank" href="https://twitter.com/RichardHeartWin" rel="noreferrer">
+          <a
+            target="_blank"
+            href="https://twitter.com/RichardHeartWin"
+            rel="noreferrer"
+          >
             To be released
           </a>
         </p>
