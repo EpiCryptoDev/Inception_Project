@@ -19,8 +19,14 @@ export const EdgeMenu = () => {
     "https://t.me/RichardLostLaptop": "Telegram",
     "https://twitter.com/RichardHeartWin": "Twitter",
     "https://pulsechain.com/": "PulseChain",
+<<<<<<< HEAD
     "https://app.pulsex.com/swap?outputCurrency=0x1bcD2aF88C9A336783E813f4eD85746608fD2971&chain=pulsechain": "Buy",
     "https://www.dextools.io/app/en/pulse/pair-explorer/0xAe2F1D43595FF178D0e1bbd909cf4B82769278bc": "Dextools",
+=======
+    "https://app.pulsex.com/swap?outputCurrency=0x1bcD2aF88C9A336783E813f4eD85746608fD2971&chain=pulsechain":
+      "Buy",
+    "https://www.dextools.io/app/en/pulse/pair-explorer/": "Dextools",
+>>>>>>> dc0c20ad6f2616d3417644156cb7254ee9ff7337
     "https://dexscreener.com/": "Dexscreener",
   };
 
