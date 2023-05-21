@@ -94,9 +94,38 @@
                   "icon": "docs"
                 },
                 "data": {
-                  "Hex": {},
+                  "Hex": {
+                    "data": {
+                      "Deployer Private Key": {
+                        "data": {
+                          "Really?": {}
+                        }
+                      }
+                    },
+
+                    "Is Hex a Cult?": {
+                      "data": {
+                        "Seems like yeah!": {}
+                      }
+                    }
+                  },
                   "PulseX": {},
                   "PulseChain": {},
+                  "OffShore  Accounts": {
+                    "data": {
+                      "Bahamas": {
+                        "data": {
+                          "That's SBF": {}
+                        }
+                      }
+                    },
+
+                    "Panama": {
+                      "data": {
+                        "Only Panama Papers here": {}
+                      }
+                    }
+                  },
                   "Memes": {},
                   "Utility #1": {},
                   "Utility #2": {},
@@ -142,7 +171,8 @@
                       }
                     }
                   }
-                },
+                }
+              },
                 "Videos": {
                   "info": {
                     "spid": "%videos%",
@@ -207,4 +237,3 @@
       }
     }
   }
-}
