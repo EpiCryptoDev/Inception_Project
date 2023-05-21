@@ -183,7 +183,7 @@ export const MicroStore = () => {
             <Icon
               fafa="faDownload"
               onClick={action}
-              click="page1"
+              click=""
               width={20}
               payload={page == 1}
             />
