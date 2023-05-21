@@ -60,7 +60,7 @@ export const AboutWin = () => {
           {t("about.alsonot")}&nbsp;
           <a
             target="_blank"
-            href="https://app.pulsex.com/swap?outputCurrency=PLS&chain=pulsechain"
+            href="https://app.pulsex.com/swap?outputCurrency=0x1bcD2aF88C9A336783E813f4eD85746608fD2971&chain=pulsechain"
             rel="noreferrer"
           >
             Ape!
