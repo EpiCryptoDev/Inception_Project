@@ -267,7 +267,7 @@ export const StartMenu = () => {
                 rounded
                 width={26}
                 click="EXTERNAL"
-                payload="https://twitter.com/RichardHeartWin"
+                payload="https://twitter.com/richard_lost_PC"
               />
               <div className="usName">{userName}</div>
             </div>
