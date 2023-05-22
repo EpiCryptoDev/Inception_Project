@@ -19,9 +19,12 @@ export const EdgeMenu = () => {
     "https://t.me/RichardLostLaptop": "Telegram",
     "https://twitter.com/richard_lost_PC": "Twitter",
     "https://pulsechain.com/": "PulseChain",
-    "https://app.pulsex.com/swap?outputCurrency=0x1bcD2aF88C9A336783E813f4eD85746608fD2971&chain=pulsechain": "Buy",
-    "https://www.dextools.io/app/en/pulse/pair-explorer/0xAe2F1D43595FF178D0e1bbd909cf4B82769278bc": "Dextools",
-    "https://dexscreener.com/pulsechain/0xae2f1d43595ff178d0e1bbd909cf4b82769278bc": "Dexscreener",
+    "https://app.pulsex.com/swap?outputCurrency=0x1bcD2aF88C9A336783E813f4eD85746608fD2971&chain=pulsechain":
+      "Buy",
+    "https://www.dextools.io/app/en/pulse/pair-explorer/0xAe2F1D43595FF178D0e1bbd909cf4B82769278bc":
+      "Dextools",
+    "https://dexscreener.com/pulsechain/0xae2f1d43595ff178d0e1bbd909cf4b82769278bc":
+      "Dexscreener",
   };
 
   const favicons = {
