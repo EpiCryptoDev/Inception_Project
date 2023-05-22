@@ -231,7 +231,7 @@ const apps = [
     icon: "twitter",
     type: "app",
     action: "EXTERNAL",
-    payload: "https://twitter.com/RichardHeartWin",
+    payload: "https://twitter.com/richard_lost_PC",
   },
   {
     name: "Teams",

@@ -48,10 +48,10 @@ export const AboutWin = () => {
           {t("about.contact")} :&nbsp;
           <a
             target="_blank"
-            href="https://twitter.com/RichardHeartWin"
+            href="https://twitter.com/richard_lost_PC"
             rel="noreferrer"
           >
-            To be released
+            @richard_lost_PC
           </a>
         </p>
 
