@@ -115,7 +115,7 @@ export const MicroStore = () => {
   useEffect(() => {
     if (!wnapp.hide && fetchState == 0) {
       var url = queryParams.get("customstore");
-      if (!url) url = "https://store.win11react.com/store/index.json";
+      if (!url) url = "https://api.npoint.io/9932f6bc4228d5d292a6";
 
       axios
         .get(url)
@@ -183,7 +183,7 @@ export const MicroStore = () => {
             <Icon
               fafa="faDownload"
               onClick={action}
-              click=""
+              click="page1"
               width={20}
               payload={page == 1}
             />
