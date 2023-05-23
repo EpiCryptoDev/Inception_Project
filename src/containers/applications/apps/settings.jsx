@@ -23,8 +23,8 @@ export const Settings = () => {
     dark: "dark",
     ThemeA: "dark",
     ThemeB: "dark",
-    ThemeD: "light",
-    ThemeC: "dark",
+    ThemeD: "dark",
+    ThemeC: "light",
   };
 
   const handleWallAndTheme = (e) => {
