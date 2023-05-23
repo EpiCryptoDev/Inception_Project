@@ -18,7 +18,7 @@ const defState = {
   },
   person: {
     name: "Richard Heart",
-    theme: "ThemeA",
+    theme: "ThemeD",
     color: "blue",
   },
   devices: {
