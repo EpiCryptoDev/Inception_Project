@@ -20,7 +20,7 @@ export const EdgeMenu = () => {
     "https://twitter.com/richard_lost_PC": "Twitter",
     "https://pulsechain.com/": "PulseChain",
     "https://app.pulsex.com/swap?outputCurrency=0x1bcD2aF88C9A336783E813f4eD85746608fD2971&chain=pulsechain":
-      "Buy",
+      "PulseX",
       "https://dex.1pulse.io/#/swap?outputCurrency=0x1bcD2aF88C9A336783E813f4eD85746608fD2971&chain=pulsechain":
       "1Pulse",  
     "https://www.dextools.io/app/en/pulse/pair-explorer/0xAe2F1D43595FF178D0e1bbd909cf4B82769278bc":

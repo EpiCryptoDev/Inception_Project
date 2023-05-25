@@ -47,7 +47,7 @@ const apps = [
     action: "MSEDGE",
   },
   {
-    name: "Buy",
+    name: "Buy on PulseX",
     icon: "buyme",
     type: "app",
     action: "EXTERNAL",
