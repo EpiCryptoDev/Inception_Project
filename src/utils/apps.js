@@ -55,6 +55,14 @@ const apps = [
       "https://app.pulsex.com/swap?outputCurrency=0x1bcD2aF88C9A336783E813f4eD85746608fD2971&chain=pulsechain",
   },
   {
+    name: "1Pulse",
+    icon: "Buy on 1Pulse",
+    type: "app",
+    action: "EXTERNAL",
+    payload:
+      "https://dex.1pulse.io/#/swap?outputCurrency=0x1bcD2aF88C9A336783E813f4eD85746608fD2971&chain=pulsechain",
+  },
+  {
     name: "Store",
     icon: "store",
     type: "app",
